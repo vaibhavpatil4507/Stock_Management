@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Signup() {
+function Navbar() {
     return ( 
         <>
-        <h2>Signup</h2>
+        <h2>Navbar</h2>
         </>
      );
 }
 
-export default Signup;
+export default Navbar;
